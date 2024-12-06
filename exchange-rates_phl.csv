@@ -1,0 +1,766 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Element Code,Element,ISO Currency Code,Currency,Year Code,Year,Months Code,Months,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,,,,,,#date+year,,,#indicator+type,#indicator+value+num,
+PHL,1970-01-01,1970-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7021,Annual value,,5.904349999325000,X
+PHL,1970-01-01,1970-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7001,January,,3.900000002900000,X
+PHL,1970-02-01,1970-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7002,February,,4.204299999000000,X
+PHL,1970-03-01,1970-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7003,March,,6.096199999000000,X
+PHL,1970-04-01,1970-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7004,April,,6.162799999000000,X
+PHL,1970-05-01,1970-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7005,May,,6.121299999000000,X
+PHL,1970-06-01,1970-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7006,June,,6.192399999000000,X
+PHL,1970-07-01,1970-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7007,July,,6.230299999000000,X
+PHL,1970-08-01,1970-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7008,August,,6.269499999000000,X
+PHL,1970-09-01,1970-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7009,September,,6.370399999000000,X
+PHL,1970-10-01,1970-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7010,October,,6.434999999000000,X
+PHL,1970-11-01,1970-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7011,November,,6.434999999000000,X
+PHL,1970-12-01,1970-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1970,1970,7012,December,,6.434999999000000,X
+PHL,1971-01-01,1971-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7021,Annual value,,6.431708332333330,X
+PHL,1971-01-01,1971-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7001,January,,6.434999999000000,X
+PHL,1971-02-01,1971-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7002,February,,6.434999999000000,X
+PHL,1971-03-01,1971-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7003,March,,6.434999999000000,X
+PHL,1971-04-01,1971-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7004,April,,6.434999999000000,X
+PHL,1971-05-01,1971-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7005,May,,6.434999999000000,X
+PHL,1971-06-01,1971-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7006,June,,6.434999999000000,X
+PHL,1971-07-01,1971-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7007,July,,6.434999999000000,X
+PHL,1971-08-01,1971-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7008,August,,6.424499999000000,X
+PHL,1971-09-01,1971-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7009,September,,6.410499999000000,X
+PHL,1971-10-01,1971-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7010,October,,6.432399999000000,X
+PHL,1971-11-01,1971-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7011,November,,6.433099999000000,X
+PHL,1971-12-01,1971-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1971,1971,7012,December,,6.434999999000000,X
+PHL,1972-01-01,1972-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7021,Annual value,,6.674841665750000,X
+PHL,1972-01-01,1972-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7001,January,,6.434999999000000,X
+PHL,1972-02-01,1972-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7002,February,,6.434999999000000,X
+PHL,1972-03-01,1972-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7003,March,,6.434999999000000,X
+PHL,1972-04-01,1972-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7004,April,,6.574899999000000,X
+PHL,1972-05-01,1972-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7005,May,,6.767400000000000,X
+PHL,1972-06-01,1972-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7006,June,,6.771799999000000,X
+PHL,1972-07-01,1972-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7007,July,,6.777799999000000,X
+PHL,1972-08-01,1972-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7008,August,,6.779499999000000,X
+PHL,1972-09-01,1972-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7009,September,,6.779499999000000,X
+PHL,1972-10-01,1972-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7010,October,,6.781199999000000,X
+PHL,1972-11-01,1972-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7011,November,,6.780599999000000,X
+PHL,1972-12-01,1972-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1972,1972,7012,December,,6.780399999000000,X
+PHL,1973-01-01,1973-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7021,Annual value,,6.756283332333330,X
+PHL,1973-01-01,1973-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7001,January,,6.781399999000000,X
+PHL,1973-02-01,1973-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7002,February,,6.776199999000000,X
+PHL,1973-03-01,1973-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7003,March,,6.771899999000000,X
+PHL,1973-04-01,1973-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7004,April,,6.766199999000000,X
+PHL,1973-05-01,1973-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7005,May,,6.763199999000000,X
+PHL,1973-06-01,1973-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7006,June,,6.759199999000000,X
+PHL,1973-07-01,1973-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7007,July,,6.758299999000000,X
+PHL,1973-08-01,1973-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7008,August,,6.746699999000000,X
+PHL,1973-09-01,1973-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7009,September,,6.739199999000000,X
+PHL,1973-10-01,1973-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7010,October,,6.739599999000000,X
+PHL,1973-11-01,1973-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7011,November,,6.738199999000000,X
+PHL,1973-12-01,1973-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1973,1973,7012,December,,6.735299999000000,X
+PHL,1974-01-01,1974-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7021,Annual value,,6.787874999416670,X
+PHL,1974-01-01,1974-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7001,January,,6.730999999000000,X
+PHL,1974-02-01,1974-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7002,February,,6.718899999000000,X
+PHL,1974-03-01,1974-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7003,March,,6.723399999000000,X
+PHL,1974-04-01,1974-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7004,April,,6.721800000000000,X
+PHL,1974-05-01,1974-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7005,May,,6.717600000000000,X
+PHL,1974-06-01,1974-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7006,June,,6.715700000000000,X
+PHL,1974-07-01,1974-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7007,July,,6.734599999000000,X
+PHL,1974-08-01,1974-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7008,August,,6.742799999000000,X
+PHL,1974-09-01,1974-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7009,September,,6.747299999000000,X
+PHL,1974-10-01,1974-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7010,October,,6.772399999000000,X
+PHL,1974-11-01,1974-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7011,November,,7.066500000000000,X
+PHL,1974-12-01,1974-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1974,1974,7012,December,,7.062500000000000,X
+PHL,1975-01-01,1975-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7021,Annual value,,7.247899999000000,X
+PHL,1975-01-01,1975-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7001,January,,7.066399999000000,X
+PHL,1975-02-01,1975-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7002,February,,7.052199999000000,X
+PHL,1975-03-01,1975-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7003,March,,7.026099999000000,X
+PHL,1975-04-01,1975-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7004,April,,7.017699999000000,X
+PHL,1975-05-01,1975-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7005,May,,7.017799999000000,X
+PHL,1975-06-01,1975-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7006,June,,7.014999999000000,X
+PHL,1975-07-01,1975-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7007,July,,7.271899999000000,X
+PHL,1975-08-01,1975-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7008,August,,7.501799999000000,X
+PHL,1975-09-01,1975-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7009,September,,7.509099999000000,X
+PHL,1975-10-01,1975-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7010,October,,7.500099999000000,X
+PHL,1975-11-01,1975-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7011,November,,7.497499999000000,X
+PHL,1975-12-01,1975-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1975,1975,7012,December,,7.499199999000000,X
+PHL,1976-01-01,1976-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7021,Annual value,,7.440258332333330,X
+PHL,1976-01-01,1976-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7001,January,,7.485599999000000,X
+PHL,1976-02-01,1976-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7002,February,,7.469299999000000,X
+PHL,1976-03-01,1976-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7003,March,,7.458299999000000,X
+PHL,1976-04-01,1976-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7004,April,,7.435399999000000,X
+PHL,1976-05-01,1976-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7005,May,,7.430399999000000,X
+PHL,1976-06-01,1976-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7006,June,,7.430899999000000,X
+PHL,1976-07-01,1976-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7007,July,,7.429799999000000,X
+PHL,1976-08-01,1976-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7008,August,,7.429699999000000,X
+PHL,1976-09-01,1976-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7009,September,,7.428999999000000,X
+PHL,1976-10-01,1976-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7010,October,,7.428299999000000,X
+PHL,1976-11-01,1976-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7011,November,,7.428199999000000,X
+PHL,1976-12-01,1976-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1976,1976,7012,December,,7.428199999000000,X
+PHL,1977-01-01,1977-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7021,Annual value,,7.402824999000000,X
+PHL,1977-01-01,1977-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7001,January,,7.427899999000000,X
+PHL,1977-02-01,1977-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7002,February,,7.427199999000000,X
+PHL,1977-03-01,1977-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7003,March,,7.426199999000000,X
+PHL,1977-04-01,1977-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7004,April,,7.410899999000000,X
+PHL,1977-05-01,1977-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7005,May,,7.404899999000000,X
+PHL,1977-06-01,1977-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7006,June,,7.398099999000000,X
+PHL,1977-07-01,1977-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7007,July,,7.396099999000000,X
+PHL,1977-08-01,1977-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7008,August,,7.393999999000000,X
+PHL,1977-09-01,1977-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7009,September,,7.393399999000000,X
+PHL,1977-10-01,1977-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7010,October,,7.389199999000000,X
+PHL,1977-11-01,1977-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7011,November,,7.386899999000000,X
+PHL,1977-12-01,1977-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1977,1977,7012,December,,7.379099999000000,X
+PHL,1978-01-01,1978-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7021,Annual value,,7.365758332500000,X
+PHL,1978-01-01,1978-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7001,January,,7.371499999000000,X
+PHL,1978-02-01,1978-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7002,February,,7.371499999000000,X
+PHL,1978-03-01,1978-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7003,March,,7.373499999000000,X
+PHL,1978-04-01,1978-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7004,April,,7.366799999000000,X
+PHL,1978-05-01,1978-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7005,May,,7.363499999000000,X
+PHL,1978-06-01,1978-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7006,June,,7.363199999000000,X
+PHL,1978-07-01,1978-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7007,July,,7.360900000000000,X
+PHL,1978-08-01,1978-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7008,August,,7.361699999000000,X
+PHL,1978-09-01,1978-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7009,September,,7.361299999000000,X
+PHL,1978-10-01,1978-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7010,October,,7.359000000000000,X
+PHL,1978-11-01,1978-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7011,November,,7.364999999000000,X
+PHL,1978-12-01,1978-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1978,1978,7012,December,,7.371199999000000,X
+PHL,1979-01-01,1979-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7021,Annual value,,7.377549999000000,X
+PHL,1979-01-01,1979-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7001,January,,7.376199999000000,X
+PHL,1979-02-01,1979-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7002,February,,7.376699999000000,X
+PHL,1979-03-01,1979-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7003,March,,7.377699999000000,X
+PHL,1979-04-01,1979-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7004,April,,7.379599999000000,X
+PHL,1979-05-01,1979-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7005,May,,7.378299999000000,X
+PHL,1979-06-01,1979-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7006,June,,7.373899999000000,X
+PHL,1979-07-01,1979-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7007,July,,7.370599999000000,X
+PHL,1979-08-01,1979-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7008,August,,7.371699999000000,X
+PHL,1979-09-01,1979-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7009,September,,7.372199999000000,X
+PHL,1979-10-01,1979-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7010,October,,7.370899999000000,X
+PHL,1979-11-01,1979-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7011,November,,7.371799999000000,X
+PHL,1979-12-01,1979-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1979,1979,7012,December,,7.410999999000000,X
+PHL,1980-01-01,1980-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7021,Annual value,,7.511433332333330,X
+PHL,1980-01-01,1980-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7001,January,,7.416699999000000,X
+PHL,1980-02-01,1980-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7002,February,,7.417899999000000,X
+PHL,1980-03-01,1980-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7003,March,,7.425899999000000,X
+PHL,1980-04-01,1980-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7004,April,,7.443399999000000,X
+PHL,1980-05-01,1980-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7005,May,,7.509499999000000,X
+PHL,1980-06-01,1980-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7006,June,,7.520899999000000,X
+PHL,1980-07-01,1980-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7007,July,,7.543199999000000,X
+PHL,1980-08-01,1980-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7008,August,,7.556199999000000,X
+PHL,1980-09-01,1980-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7009,September,,7.562199999000000,X
+PHL,1980-10-01,1980-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7010,October,,7.566899999000000,X
+PHL,1980-11-01,1980-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7011,November,,7.580199999000000,X
+PHL,1980-12-01,1980-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1980,1980,7012,December,,7.594199999000000,X
+PHL,1981-01-01,1981-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7021,Annual value,,7.899649999083330,X
+PHL,1981-01-01,1981-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7001,January,,7.632299999000000,X
+PHL,1981-02-01,1981-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7002,February,,7.667599999000000,X
+PHL,1981-03-01,1981-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7003,March,,7.730299999000000,X
+PHL,1981-04-01,1981-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7004,April,,7.790399999000000,X
+PHL,1981-05-01,1981-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7005,May,,7.850399999000000,X
+PHL,1981-06-01,1981-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7006,June,,7.935999999000000,X
+PHL,1981-07-01,1981-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7007,July,,7.949099999000000,X
+PHL,1981-08-01,1981-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7008,August,,7.951599999000000,X
+PHL,1981-09-01,1981-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7009,September,,7.991999999000000,X
+PHL,1981-10-01,1981-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7010,October,,8.064000000000000,X
+PHL,1981-11-01,1981-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7011,November,,8.100899998999999,X
+PHL,1981-12-01,1981-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1981,1981,7012,December,,8.131199999000000,X
+PHL,1982-01-01,1982-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7021,Annual value,,8.539999999416670,X
+PHL,1982-01-01,1982-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7001,January,,8.254199999000001,X
+PHL,1982-02-01,1982-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7002,February,,8.282999998999999,X
+PHL,1982-03-01,1982-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7003,March,,8.340499999000000,X
+PHL,1982-04-01,1982-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7004,April,,8.379199999000001,X
+PHL,1982-05-01,1982-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7005,May,,8.416100000000000,X
+PHL,1982-06-01,1982-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7006,June,,8.450899999000001,X
+PHL,1982-07-01,1982-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7007,July,,8.487800000000000,X
+PHL,1982-08-01,1982-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7008,August,,8.529299998999999,X
+PHL,1982-09-01,1982-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7009,September,,8.638000000000000,X
+PHL,1982-10-01,1982-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7010,October,,8.766399999000001,X
+PHL,1982-11-01,1982-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7011,November,,8.875200000000000,X
+PHL,1982-12-01,1982-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1982,1982,7012,December,,9.059400000000000,X
+PHL,1983-01-01,1983-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7021,Annual value,,11.112716665833300,X
+PHL,1983-01-01,1983-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7001,January,,9.286499999000000,X
+PHL,1983-02-01,1983-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7002,February,,9.464399998999999,X
+PHL,1983-03-01,1983-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7003,March,,9.605699999000000,X
+PHL,1983-04-01,1983-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7004,April,,9.869300000000001,X
+PHL,1983-05-01,1983-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7005,May,,10.031499998999999,X
+PHL,1983-06-01,1983-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7006,June,,10.384499999000001,X
+PHL,1983-07-01,1983-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7007,July,,11.001700000000000,X
+PHL,1983-08-01,1983-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7008,August,,11.001599999000000,X
+PHL,1983-09-01,1983-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7009,September,,11.001799998999999,X
+PHL,1983-10-01,1983-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7010,October,,13.701599999000001,X
+PHL,1983-11-01,1983-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7011,November,,14.001999999000001,X
+PHL,1983-12-01,1983-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1983,1983,7012,December,,14.001999999000001,X
+PHL,1984-01-01,1984-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7021,Annual value,,16.698708332916699,X
+PHL,1984-01-01,1984-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7001,January,,14.001999999000001,X
+PHL,1984-02-01,1984-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7002,February,,14.001999999000001,X
+PHL,1984-03-01,1984-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7003,March,,14.001999999000001,X
+PHL,1984-04-01,1984-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7004,April,,14.001999999000001,X
+PHL,1984-05-01,1984-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7005,May,,14.001999999000001,X
+PHL,1984-06-01,1984-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7006,June,,17.402000000000001,X
+PHL,1984-07-01,1984-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7007,July,,18.001999999999999,X
+PHL,1984-08-01,1984-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7008,August,,18.001999999999999,X
+PHL,1984-09-01,1984-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7009,September,,18.001999999999999,X
+PHL,1984-10-01,1984-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7010,October,,19.148199999999999,X
+PHL,1984-11-01,1984-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7011,November,,19.959000000000000,X
+PHL,1984-12-01,1984-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1984,1984,7012,December,,19.859300000000001,X
+PHL,1985-01-01,1985-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7021,Annual value,,18.607341666500002,X
+PHL,1985-01-01,1985-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7001,January,,18.979399999999998,X
+PHL,1985-02-01,1985-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7002,February,,18.255700000000001,X
+PHL,1985-03-01,1985-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7003,March,,18.477799998999998,X
+PHL,1985-04-01,1985-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7004,April,,18.484100000000002,X
+PHL,1985-05-01,1985-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7005,May,,18.479999999000000,X
+PHL,1985-06-01,1985-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7006,June,,18.472700000000000,X
+PHL,1985-07-01,1985-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7007,July,,18.581000000000000,X
+PHL,1985-08-01,1985-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7008,August,,18.604700000000001,X
+PHL,1985-09-01,1985-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7009,September,,18.615700000000000,X
+PHL,1985-10-01,1985-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7010,October,,18.703900000000001,X
+PHL,1985-11-01,1985-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7011,November,,18.736799999999999,X
+PHL,1985-12-01,1985-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1985,1985,7012,December,,18.896300000000000,X
+PHL,1986-01-01,1986-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7021,Annual value,,20.385683333333301,X
+PHL,1986-01-01,1986-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7001,January,,19.041699999999999,X
+PHL,1986-02-01,1986-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7002,February,,20.460799999999999,X
+PHL,1986-03-01,1986-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7003,March,,20.780999999999999,X
+PHL,1986-04-01,1986-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7004,April,,20.504500000000000,X
+PHL,1986-05-01,1986-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7005,May,,20.500200000000000,X
+PHL,1986-06-01,1986-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7006,June,,20.552000000000000,X
+PHL,1986-07-01,1986-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7007,July,,20.454200000000000,X
+PHL,1986-08-01,1986-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7008,August,,20.431600000000000,X
+PHL,1986-09-01,1986-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7009,September,,20.509200000000000,X
+PHL,1986-10-01,1986-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7010,October,,20.437200000000001,X
+PHL,1986-11-01,1986-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7011,November,,20.436000000000000,X
+PHL,1986-12-01,1986-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1986,1986,7012,December,,20.519800000000000,X
+PHL,1987-01-01,1987-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7021,Annual value,,20.567675000000001,X
+PHL,1987-01-01,1987-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7001,January,,20.462900000000001,X
+PHL,1987-02-01,1987-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7002,February,,20.525200000000002,X
+PHL,1987-03-01,1987-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7003,March,,20.562500000000000,X
+PHL,1987-04-01,1987-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7004,April,,20.504799999999999,X
+PHL,1987-05-01,1987-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7005,May,,20.473199999999999,X
+PHL,1987-06-01,1987-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7006,June,,20.456399999999999,X
+PHL,1987-07-01,1987-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7007,July,,20.449999999999999,X
+PHL,1987-08-01,1987-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7008,August,,20.438700000000001,X
+PHL,1987-09-01,1987-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7009,September,,20.600500000000000,X
+PHL,1987-10-01,1987-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7010,October,,20.706000000000000,X
+PHL,1987-11-01,1987-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7011,November,,20.817100000000000,X
+PHL,1987-12-01,1987-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1987,1987,7012,December,,20.814800000000002,X
+PHL,1988-01-01,1988-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7021,Annual value,,21.094674999999999,X
+PHL,1988-01-01,1988-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7001,January,,20.846100000000000,X
+PHL,1988-02-01,1988-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7002,February,,20.902999999999999,X
+PHL,1988-03-01,1988-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7003,March,,21.027699999999999,X
+PHL,1988-04-01,1988-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7004,April,,21.029599999999999,X
+PHL,1988-05-01,1988-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7005,May,,20.954000000000001,X
+PHL,1988-06-01,1988-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7006,June,,20.948699999999999,X
+PHL,1988-07-01,1988-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7007,July,,21.024699999999999,X
+PHL,1988-08-01,1988-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7008,August,,21.059100000000001,X
+PHL,1988-09-01,1988-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7009,September,,21.248500000000000,X
+PHL,1988-10-01,1988-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7010,October,,21.361599999999999,X
+PHL,1988-11-01,1988-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7011,November,,21.377099999999999,X
+PHL,1988-12-01,1988-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1988,1988,7012,December,,21.356000000000002,X
+PHL,1989-01-01,1989-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7021,Annual value,,21.736683333333300,X
+PHL,1989-01-01,1989-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7001,January,,21.342099999999999,X
+PHL,1989-02-01,1989-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7002,February,,21.357399999999998,X
+PHL,1989-03-01,1989-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7003,March,,21.338799999999999,X
+PHL,1989-04-01,1989-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7004,April,,21.413599999999999,X
+PHL,1989-05-01,1989-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7005,May,,21.579599999999999,X
+PHL,1989-06-01,1989-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7006,June,,21.680000000000000,X
+PHL,1989-07-01,1989-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7007,July,,21.886500000000002,X
+PHL,1989-08-01,1989-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7008,August,,21.879999999999999,X
+PHL,1989-09-01,1989-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7009,September,,21.969100000000001,X
+PHL,1989-10-01,1989-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7010,October,,21.958900000000000,X
+PHL,1989-11-01,1989-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7011,November,,22.099000000000000,X
+PHL,1989-12-01,1989-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1989,1989,7012,December,,22.335200000000000,X
+PHL,1990-01-01,1990-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7021,Annual value,,24.310500000000001,X
+PHL,1990-01-01,1990-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7001,January,,22.464400000000001,X
+PHL,1990-02-01,1990-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7002,February,,22.624400000000001,X
+PHL,1990-03-01,1990-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7003,March,,22.759399999999999,X
+PHL,1990-04-01,1990-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7004,April,,22.760900000000000,X
+PHL,1990-05-01,1990-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7005,May,,22.901800000000001,X
+PHL,1990-06-01,1990-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7006,June,,23.102599999999999,X
+PHL,1990-07-01,1990-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7007,July,,23.563199999999998,X
+PHL,1990-08-01,1990-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7008,August,,24.447399999999998,X
+PHL,1990-09-01,1990-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7009,September,,25.351900000000001,X
+PHL,1990-10-01,1990-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7010,October,,25.750000000000000,X
+PHL,1990-11-01,1990-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7011,November,,28.000000000000000,X
+PHL,1990-12-01,1990-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1990,1990,7012,December,,28.000000000000000,X
+PHL,1991-01-01,1991-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7021,Annual value,,27.478633333333299,X
+PHL,1991-01-01,1991-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7001,January,,28.000000000000000,X
+PHL,1991-02-01,1991-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7002,February,,28.000000000000000,X
+PHL,1991-03-01,1991-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7003,March,,28.000000000000000,X
+PHL,1991-04-01,1991-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7004,April,,27.926100000000002,X
+PHL,1991-05-01,1991-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7005,May,,27.818600000000000,X
+PHL,1991-06-01,1991-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7006,June,,27.795500000000001,X
+PHL,1991-07-01,1991-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7007,July,,27.620999999999999,X
+PHL,1991-08-01,1991-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7008,August,,27.199500000000000,X
+PHL,1991-09-01,1991-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7009,September,,26.983400000000000,X
+PHL,1991-10-01,1991-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7010,October,,26.994599999999998,X
+PHL,1991-11-01,1991-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7011,November,,26.736599999999999,X
+PHL,1991-12-01,1991-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1991,1991,7012,December,,26.668299999999999,X
+PHL,1992-01-01,1992-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7021,Annual value,,25.512491666666701,X
+PHL,1992-01-01,1992-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7001,January,,26.544599999999999,X
+PHL,1992-02-01,1992-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7002,February,,26.158000000000001,X
+PHL,1992-03-01,1992-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7003,March,,25.810199999999998,X
+PHL,1992-04-01,1992-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7004,April,,25.667200000000001,X
+PHL,1992-05-01,1992-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7005,May,,26.149600000000000,X
+PHL,1992-06-01,1992-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7006,June,,26.120500000000000,X
+PHL,1992-07-01,1992-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7007,July,,25.261600000000001,X
+PHL,1992-08-01,1992-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7008,August,,24.669100000000000,X
+PHL,1992-09-01,1992-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7009,September,,24.725999999999999,X
+PHL,1992-10-01,1992-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7010,October,,24.784900000000000,X
+PHL,1992-11-01,1992-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7011,November,,24.936100000000000,X
+PHL,1992-12-01,1992-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1992,1992,7012,December,,25.322099999999999,X
+PHL,1993-01-01,1993-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7021,Annual value,,27.119841666666701,X
+PHL,1993-01-01,1993-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7001,January,,25.280000000000001,X
+PHL,1993-02-01,1993-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7002,February,,25.311599999999999,X
+PHL,1993-03-01,1993-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7003,March,,25.365600000000001,X
+PHL,1993-04-01,1993-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7004,April,,26.077999999999999,X
+PHL,1993-05-01,1993-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7005,May,,27.006399999999999,X
+PHL,1993-06-01,1993-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7006,June,,27.206299999999999,X
+PHL,1993-07-01,1993-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7007,July,,27.568800000000000,X
+PHL,1993-08-01,1993-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7008,August,,27.948899999999998,X
+PHL,1993-09-01,1993-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7009,September,,28.233699999999999,X
+PHL,1993-10-01,1993-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7010,October,,29.160000000000000,X
+PHL,1993-11-01,1993-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7011,November,,28.484900000000000,X
+PHL,1993-12-01,1993-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1993,1993,7012,December,,27.793900000000001,X
+PHL,1994-01-01,1994-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7021,Annual value,,26.417166666666699,X
+PHL,1994-01-01,1994-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7001,January,,27.724499999999999,X
+PHL,1994-02-01,1994-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7002,February,,27.646300000000000,X
+PHL,1994-03-01,1994-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7003,March,,27.587199999999999,X
+PHL,1994-04-01,1994-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7004,April,,27.529800000000002,X
+PHL,1994-05-01,1994-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7005,May,,27.053000000000001,X
+PHL,1994-06-01,1994-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7006,June,,26.975600000000000,X
+PHL,1994-07-01,1994-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7007,July,,26.460799999999999,X
+PHL,1994-08-01,1994-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7008,August,,26.313199999999998,X
+PHL,1994-09-01,1994-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7009,September,,25.911300000000001,X
+PHL,1994-10-01,1994-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7010,October,,25.394500000000001,X
+PHL,1994-11-01,1994-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7011,November,,24.264800000000001,X
+PHL,1994-12-01,1994-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1994,1994,7012,December,,24.145000000000000,X
+PHL,1995-01-01,1995-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7021,Annual value,,25.714466666666699,X
+PHL,1995-01-01,1995-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7001,January,,24.622299999999999,X
+PHL,1995-02-01,1995-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7002,February,,25.028199999999998,X
+PHL,1995-03-01,1995-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7003,March,,25.859000000000002,X
+PHL,1995-04-01,1995-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7004,April,,26.007999999999999,X
+PHL,1995-05-01,1995-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7005,May,,25.849300000000000,X
+PHL,1995-06-01,1995-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7006,June,,25.674199999999999,X
+PHL,1995-07-01,1995-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7007,July,,25.513999999999999,X
+PHL,1995-08-01,1995-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7008,August,,25.710899999999999,X
+PHL,1995-09-01,1995-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7009,September,,25.969200000000001,X
+PHL,1995-10-01,1995-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7010,October,,25.965399999999999,X
+PHL,1995-11-01,1995-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7011,November,,26.167100000000001,X
+PHL,1995-12-01,1995-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1995,1995,7012,December,,26.206000000000000,X
+PHL,1996-01-01,1996-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7021,Annual value,,26.216100000000001,X
+PHL,1996-01-01,1996-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7001,January,,26.216600000000000,X
+PHL,1996-02-01,1996-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7002,February,,26.158799999999999,X
+PHL,1996-03-01,1996-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7003,March,,26.195699999999999,X
+PHL,1996-04-01,1996-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7004,April,,26.189699999999998,X
+PHL,1996-05-01,1996-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7005,May,,26.175899999999999,X
+PHL,1996-06-01,1996-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7006,June,,26.194400000000002,X
+PHL,1996-07-01,1996-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7007,July,,26.199500000000000,X
+PHL,1996-08-01,1996-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7008,August,,26.199400000000001,X
+PHL,1996-09-01,1996-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7009,September,,26.235600000000002,X
+PHL,1996-10-01,1996-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7010,October,,26.269300000000001,X
+PHL,1996-11-01,1996-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7011,November,,26.265799999999999,X
+PHL,1996-12-01,1996-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1996,1996,7012,December,,26.292500000000000,X
+PHL,1997-01-01,1997-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7021,Annual value,,29.470658333333301,X
+PHL,1997-01-01,1997-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7001,January,,26.317299999999999,X
+PHL,1997-02-01,1997-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7002,February,,26.341100000000001,X
+PHL,1997-03-01,1997-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7003,March,,26.331900000000001,X
+PHL,1997-04-01,1997-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7004,April,,26.364200000000000,X
+PHL,1997-05-01,1997-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7005,May,,26.372100000000000,X
+PHL,1997-06-01,1997-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7006,June,,26.376100000000001,X
+PHL,1997-07-01,1997-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7007,July,,27.667900000000000,X
+PHL,1997-08-01,1997-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7008,August,,29.330500000000001,X
+PHL,1997-09-01,1997-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7009,September,,32.394500000000001,X
+PHL,1997-10-01,1997-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7010,October,,34.463900000000002,X
+PHL,1997-11-01,1997-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7011,November,,34.517800000000001,X
+PHL,1997-12-01,1997-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1997,1997,7012,December,,37.170600000000000,X
+PHL,1998-01-01,1998-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7021,Annual value,,40.893050000000002,X
+PHL,1998-01-01,1998-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7001,January,,42.661000000000001,X
+PHL,1998-02-01,1998-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7002,February,,40.414299999999997,X
+PHL,1998-03-01,1998-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7003,March,,39.003999999999998,X
+PHL,1998-04-01,1998-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7004,April,,38.442200000000000,X
+PHL,1998-05-01,1998-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7005,May,,39.297100000000000,X
+PHL,1998-06-01,1998-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7006,June,,40.399099999999997,X
+PHL,1998-07-01,1998-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7007,July,,41.780500000000004,X
+PHL,1998-08-01,1998-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7008,August,,43.037500000000001,X
+PHL,1998-09-01,1998-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7009,September,,43.775900000000000,X
+PHL,1998-10-01,1998-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7010,October,,42.888199999999998,X
+PHL,1998-11-01,1998-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7011,November,,39.943500000000000,X
+PHL,1998-12-01,1998-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1998,1998,7012,December,,39.073300000000003,X
+PHL,1999-01-01,1999-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7021,Annual value,,39.088983333333303,X
+PHL,1999-01-01,1999-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7001,January,,38.404299999999999,X
+PHL,1999-02-01,1999-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7002,February,,38.779899999999998,X
+PHL,1999-03-01,1999-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7003,March,,38.910800000000002,X
+PHL,1999-04-01,1999-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7004,April,,38.241700000000002,X
+PHL,1999-05-01,1999-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7005,May,,37.838500000000003,X
+PHL,1999-06-01,1999-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7006,June,,37.899000000000001,X
+PHL,1999-07-01,1999-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7007,July,,38.279800000000002,X
+PHL,1999-08-01,1999-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7008,August,,39.261000000000003,X
+PHL,1999-09-01,1999-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7009,September,,40.173800000000000,X
+PHL,1999-10-01,1999-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7010,October,,40.314999999999998,X
+PHL,1999-11-01,1999-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7011,November,,40.341000000000001,X
+PHL,1999-12-01,1999-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,1999,1999,7012,December,,40.622999999999997,X
+PHL,2000-01-01,2000-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7021,Annual value,,44.192250000000001,X
+PHL,2000-01-01,2000-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7001,January,,40.427000000000000,X
+PHL,2000-02-01,2000-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7002,February,,40.572000000000003,X
+PHL,2000-03-01,2000-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7003,March,,40.938000000000002,X
+PHL,2000-04-01,2000-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7004,April,,41.188000000000002,X
+PHL,2000-05-01,2000-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7005,May,,41.805999999999997,X
+PHL,2000-06-01,2000-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7006,June,,42.649000000000001,X
+PHL,2000-07-01,2000-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7007,July,,44.335999999999999,X
+PHL,2000-08-01,2000-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7008,August,,44.898000000000003,X
+PHL,2000-09-01,2000-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7009,September,,45.737000000000002,X
+PHL,2000-10-01,2000-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7010,October,,48.106000000000002,X
+PHL,2000-11-01,2000-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7011,November,,49.753999999999998,X
+PHL,2000-12-01,2000-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2000,2000,7012,December,,49.896000000000001,X
+PHL,2001-01-01,2001-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7021,Annual value,,50.992649999999998,X
+PHL,2001-01-01,2001-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7001,January,,50.969000000000001,X
+PHL,2001-02-01,2001-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7002,February,,48.289999999999999,X
+PHL,2001-03-01,2001-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7003,March,,48.466999999999999,X
+PHL,2001-04-01,2001-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7004,April,,50.185000000000002,X
+PHL,2001-05-01,2001-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7005,May,,50.539000000000001,X
+PHL,2001-06-01,2001-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7006,June,,51.488000000000000,X
+PHL,2001-07-01,2001-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7007,July,,53.223999999999997,X
+PHL,2001-08-01,2001-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7008,August,,51.988000000000000,X
+PHL,2001-09-01,2001-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7009,September,,51.250000000000000,X
+PHL,2001-10-01,2001-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7010,October,,51.732999999999997,X
+PHL,2001-11-01,2001-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7011,November,,51.989899999999999,X
+PHL,2001-12-01,2001-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2001,2001,7012,December,,51.788899999999998,X
+PHL,2002-01-01,2002-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7021,Annual value,,51.603566666666701,X
+PHL,2002-01-01,2002-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7001,January,,51.409700000000001,X
+PHL,2002-02-01,2002-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7002,February,,51.281700000000001,X
+PHL,2002-03-01,2002-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7003,March,,51.066099999999999,X
+PHL,2002-04-01,2002-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7004,April,,50.987200000000001,X
+PHL,2002-05-01,2002-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7005,May,,49.838299999999997,X
+PHL,2002-06-01,2002-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7006,June,,50.406500000000001,X
+PHL,2002-07-01,2002-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7007,July,,50.596299999999999,X
+PHL,2002-08-01,2002-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7008,August,,51.793100000000003,X
+PHL,2002-09-01,2002-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7009,September,,52.129199999999997,X
+PHL,2002-10-01,2002-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7010,October,,52.906999999999996,X
+PHL,2002-11-01,2002-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7011,November,,53.308199999999999,X
+PHL,2002-12-01,2002-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2002,2002,7012,December,,53.519500000000001,X
+PHL,2003-01-01,2003-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7021,Annual value,,54.203333333333298,X
+PHL,2003-01-01,2003-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7001,January,,53.563499999999998,X
+PHL,2003-02-01,2003-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7002,February,,54.074800000000003,X
+PHL,2003-03-01,2003-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7003,March,,54.590899999999998,X
+PHL,2003-04-01,2003-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7004,April,,52.806800000000003,X
+PHL,2003-05-01,2003-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7005,May,,52.507199999999997,X
+PHL,2003-06-01,2003-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7006,June,,53.399200000000000,X
+PHL,2003-07-01,2003-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7007,July,,53.713799999999999,X
+PHL,2003-08-01,2003-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7008,August,,54.991399999999999,X
+PHL,2003-09-01,2003-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7009,September,,55.023499999999999,X
+PHL,2003-10-01,2003-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7010,October,,54.951999999999998,X
+PHL,2003-11-01,2003-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7011,November,,55.371800000000000,X
+PHL,2003-12-01,2003-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2003,2003,7012,December,,55.445099999999996,X
+PHL,2004-01-01,2004-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7021,Annual value,,56.039916666666699,X
+PHL,2004-01-01,2004-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7001,January,,55.526100000000000,X
+PHL,2004-02-01,2004-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7002,February,,56.069600000000001,X
+PHL,2004-03-01,2004-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7003,March,,56.302900000000001,X
+PHL,2004-04-01,2004-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7004,April,,55.903900000000000,X
+PHL,2004-05-01,2004-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7005,May,,55.845300000000002,X
+PHL,2004-06-01,2004-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7006,June,,55.984800000000000,X
+PHL,2004-07-01,2004-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7007,July,,55.952700000000000,X
+PHL,2004-08-01,2004-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7008,August,,55.834200000000003,X
+PHL,2004-09-01,2004-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7009,September,,56.213200000000001,X
+PHL,2004-10-01,2004-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7010,October,,56.341400000000000,X
+PHL,2004-11-01,2004-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7011,November,,56.322099999999999,X
+PHL,2004-12-01,2004-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2004,2004,7012,December,,56.182800000000000,X
+PHL,2005-01-01,2005-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7021,Annual value,,55.085491666666698,X
+PHL,2005-01-01,2005-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7001,January,,55.766199999999998,X
+PHL,2005-02-01,2005-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7002,February,,54.812800000000003,X
+PHL,2005-03-01,2005-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7003,March,,54.440199999999997,X
+PHL,2005-04-01,2005-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7004,April,,54.491799999999998,X
+PHL,2005-05-01,2005-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7005,May,,54.341099999999997,X
+PHL,2005-06-01,2005-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7006,June,,55.179000000000002,X
+PHL,2005-07-01,2005-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7007,July,,56.006200000000000,X
+PHL,2005-08-01,2005-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7008,August,,55.952300000000001,X
+PHL,2005-09-01,2005-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7009,September,,56.156199999999998,X
+PHL,2005-10-01,2005-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7010,October,,55.707700000000003,X
+PHL,2005-11-01,2005-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7011,November,,54.560600000000001,X
+PHL,2005-12-01,2005-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2005,2005,7012,December,,53.611800000000002,X
+PHL,2006-01-01,2006-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7021,Annual value,,51.314272500000001,X
+PHL,2006-01-01,2006-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7001,January,,52.617100000000001,X
+PHL,2006-02-01,2006-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7002,February,,51.816800000000001,X
+PHL,2006-03-01,2006-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7003,March,,51.218899999999998,X
+PHL,2006-04-01,2006-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7004,April,,51.359699999999997,X
+PHL,2006-05-01,2006-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7005,May,,52.127270000000003,X
+PHL,2006-06-01,2006-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7006,June,,53.156700000000001,X
+PHL,2006-07-01,2006-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7007,July,,52.397599999999997,X
+PHL,2006-08-01,2006-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7008,August,,51.361800000000002,X
+PHL,2006-09-01,2006-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7009,September,,50.401200000000003,X
+PHL,2006-10-01,2006-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7010,October,,50.003799999999998,X
+PHL,2006-11-01,2006-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7011,November,,49.843400000000003,X
+PHL,2006-12-01,2006-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2006,2006,7012,December,,49.466999999999999,X
+PHL,2007-01-01,2007-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7021,Annual value,,46.148391177755002,X
+PHL,2007-01-01,2007-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7001,January,,48.914318181818203,X
+PHL,2007-02-01,2007-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7002,February,,48.381349999999998,X
+PHL,2007-03-01,2007-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7003,March,,48.517227272727297,X
+PHL,2007-04-01,2007-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7004,April,,47.822444444444400,X
+PHL,2007-05-01,2007-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7005,May,,46.814142857142897,X
+PHL,2007-06-01,2007-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7006,June,,46.160150000000002,X
+PHL,2007-07-01,2007-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7007,July,,45.625090909090901,X
+PHL,2007-08-01,2007-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7008,August,,46.073714285714303,X
+PHL,2007-09-01,2007-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7009,September,,46.131450000000001,X
+PHL,2007-10-01,2007-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7010,October,,44.380285714285698,X
+PHL,2007-11-01,2007-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7011,November,,43.217631578947398,X
+PHL,2007-12-01,2007-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2007,2007,7012,December,,41.742888888888899,X
+PHL,2008-01-01,2008-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7021,Annual value,,44.323287609410002,X
+PHL,2008-01-01,2008-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7001,January,,40.938090909090903,X
+PHL,2008-02-01,2008-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7002,February,,40.671100000000003,X
+PHL,2008-03-01,2008-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7003,March,,41.252368421052601,X
+PHL,2008-04-01,2008-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7004,April,,41.819571428571400,X
+PHL,2008-05-01,2008-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7005,May,,42.901952380952402,X
+PHL,2008-06-01,2008-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7006,June,,44.280549999999998,X
+PHL,2008-07-01,2008-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7007,July,,44.956260869565199,X
+PHL,2008-08-01,2008-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7008,August,,44.876947368421099,X
+PHL,2008-09-01,2008-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7009,September,,44.876947368421099,X
+PHL,2008-10-01,2008-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7010,October,,48.025227272727300,X
+PHL,2008-11-01,2008-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7011,November,,49.186199999999999,X
+PHL,2008-12-01,2008-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2008,2008,7012,December,,48.094235294117603,X
+PHL,2009-01-01,2009-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7021,Annual value,,47.679688453509101,X
+PHL,2009-01-01,2009-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7001,January,,47.207149999999999,X
+PHL,2009-02-01,2009-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7002,February,,48.094235294117603,X
+PHL,2009-03-01,2009-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7003,March,,48.458045499999997,X
+PHL,2009-04-01,2009-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7004,April,,48.216526299999998,X
+PHL,2009-05-01,2009-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7005,May,,47.524149999999999,X
+PHL,2009-06-01,2009-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7006,June,,47.905285714285697,X
+PHL,2009-07-01,2009-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7007,July,,48.146000000000001,X
+PHL,2009-08-01,2009-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7008,August,,48.160722222222198,X
+PHL,2009-09-01,2009-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7009,September,,48.139400000000002,X
+PHL,2009-10-01,2009-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7010,October,,46.851272727272701,X
+PHL,2009-11-01,2009-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7011,November,,47.032421052631598,X
+PHL,2009-12-01,2009-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2009,2009,7012,December,,46.421052631578902,X
+PHL,2010-01-01,2010-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7021,Annual value,,45.109664180089602,X
+PHL,2010-01-01,2010-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7001,January,,46.027600000000000,X
+PHL,2010-02-01,2010-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7002,February,,46.311599999999999,X
+PHL,2010-03-01,2010-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7003,March,,45.742478260869603,X
+PHL,2010-04-01,2010-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7004,April,,44.626578947368401,X
+PHL,2010-05-01,2010-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7005,May,,45.597105263157907,X
+PHL,2010-06-01,2010-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7006,June,,46.302700000000002,X
+PHL,2010-07-01,2010-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7007,July,,46.320272727272702,X
+PHL,2010-08-01,2010-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7008,August,,45.182476190476201,X
+PHL,2010-09-01,2010-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7009,September,,44.313666666666698,X
+PHL,2010-10-01,2010-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7010,October,,43.444899999999997,X
+PHL,2010-11-01,2010-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7011,November,,43.491842105263203,X
+PHL,2010-12-01,2010-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2010,2010,7012,December,,43.954749999999997,X
+PHL,2011-01-01,2011-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7021,Annual value,,43.313136923748800,X
+PHL,2011-01-01,2011-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7001,January,,44.172190476190501,X
+PHL,2011-02-01,2011-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7002,February,,43.703099999999999,X
+PHL,2011-03-01,2011-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7003,March,,43.515999999999998,X
+PHL,2011-04-01,2011-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7004,April,,43.240157894736797,X
+PHL,2011-05-01,2011-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7005,May,,43.130727272727299,X
+PHL,2011-06-01,2011-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7006,June,,43.365666666666698,X
+PHL,2011-07-01,2011-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7007,July,,42.808761904761901,X
+PHL,2011-08-01,2011-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7008,August,,42.420904761904801,X
+PHL,2011-09-01,2011-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7009,September,,43.025636363636401,X
+PHL,2011-10-01,2011-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7010,October,,43.451400000000000,X
+PHL,2011-11-01,2011-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7011,November,,43.274526315789501,X
+PHL,2011-12-01,2011-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2011,2011,7012,December,,43.648571428571401,X
+PHL,2012-01-01,2012-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7021,Annual value,,42.228794734943399,X
+PHL,2012-01-01,2012-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7001,January,,43.619142857142897,X
+PHL,2012-02-01,2012-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7002,February,,42.660761904761898,X
+PHL,2012-03-01,2012-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7003,March,,42.857363636363601,X
+PHL,2012-04-01,2012-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7004,April,,42.699777777777797,X
+PHL,2012-05-01,2012-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7005,May,,42.851454545454601,X
+PHL,2012-06-01,2012-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7006,June,,42.776449999999997,X
+PHL,2012-07-01,2012-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7007,July,,41.905409090909103,X
+PHL,2012-08-01,2012-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7008,August,,42.045210526315799,X
+PHL,2012-09-01,2012-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7009,September,,41.748950000000001,X
+PHL,2012-10-01,2012-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7010,October,,41.452136363636399,X
+PHL,2012-11-01,2012-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7011,November,,41.122157894736802,X
+PHL,2012-12-01,2012-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2012,2012,7012,December,,41.006722222222201,X
+PHL,2013-01-01,2013-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7021,Annual value,,42.446184830673999,X
+PHL,2013-01-01,2013-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7001,January,,40.729500000000002,X
+PHL,2013-02-01,2013-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7002,February,,40.672249999999998,X
+PHL,2013-03-01,2013-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7003,March,,40.712736842105301,X
+PHL,2013-04-01,2013-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7004,April,,41.142238095238099,X
+PHL,2013-05-01,2013-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7005,May,,41.297571428571402,X
+PHL,2013-06-01,2013-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7006,June,,42.906947368421100,X
+PHL,2013-07-01,2013-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7007,July,,43.355869565217397,X
+PHL,2013-08-01,2013-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7008,August,,43.863941176470597,X
+PHL,2013-09-01,2013-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7009,September,,43.831809523809497,X
+PHL,2013-10-01,2013-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7010,October,,43.182476190476201,X
+PHL,2013-11-01,2013-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7011,November,,43.554600000000001,X
+PHL,2013-12-01,2013-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2013,2013,7012,December,,44.104277777777803,X
+PHL,2014-01-01,2014-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7021,Annual value,,44.395154304209697,X
+PHL,2014-01-01,2014-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7001,January,,44.926571428571400,X
+PHL,2014-02-01,2014-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7002,February,,44.895000000000003,X
+PHL,2014-03-01,2014-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7003,March,,44.791571428571402,X
+PHL,2014-04-01,2014-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7004,April,,44.641578947368402,X
+PHL,2014-05-01,2014-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7005,May,,43.923619047618999,X
+PHL,2014-06-01,2014-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7006,June,,43.817500000000003,X
+PHL,2014-07-01,2014-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7007,July,,43.466523809523800,X
+PHL,2014-08-01,2014-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7008,August,,43.767315789473699,X
+PHL,2014-09-01,2014-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7009,September,,44.075142857142893,X
+PHL,2014-10-01,2014-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7010,October,,44.797863636363601,X
+PHL,2014-11-01,2014-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7011,November,,44.951400000000000,X
+PHL,2014-12-01,2014-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2014,2014,7012,December,,44.687764705882401,X
+PHL,2015-01-01,2015-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7021,Annual value,,45.502839942143098,X
+PHL,2015-01-01,2015-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7001,January,,44.604411764705901,X
+PHL,2015-02-01,2015-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7002,February,,44.221368421052603,X
+PHL,2015-03-01,2015-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7003,March,,44.445727272727297,X
+PHL,2015-04-01,2015-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7004,April,,44.413578947368400,X
+PHL,2015-05-01,2015-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7005,May,,44.610599999999998,X
+PHL,2015-06-01,2015-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7006,June,,44.983142857142902,X
+PHL,2015-07-01,2015-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7007,July,,45.264909090909107,X
+PHL,2015-08-01,2015-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7008,August,,46.142000000000003,X
+PHL,2015-09-01,2015-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7009,September,,46.750428571428600,X
+PHL,2015-10-01,2015-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7010,October,,46.360909090909097,X
+PHL,2015-11-01,2015-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7011,November,,47.006687499999998,X
+PHL,2015-12-01,2015-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2015,2015,7012,December,,47.230315789473693,X
+PHL,2016-01-01,2016-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7021,Annual value,,47.492463858509907,X
+PHL,2016-01-01,2016-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7001,January,,47.511099999999999,X
+PHL,2016-02-01,2016-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7002,February,,47.636105263157901,X
+PHL,2016-03-01,2016-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7003,March,,46.723952380952397,X
+PHL,2016-04-01,2016-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7004,April,,46.284523809523797,X
+PHL,2016-05-01,2016-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7005,May,,46.802285714285702,X
+PHL,2016-06-01,2016-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7006,June,,46.464454545454601,X
+PHL,2016-07-01,2016-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7007,July,,47.058100000000003,X
+PHL,2016-08-01,2016-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7008,August,,46.680863636363597,X
+PHL,2016-09-01,2016-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7009,September,,47.429380952381003,X
+PHL,2016-10-01,2016-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7010,October,,48.348199999999999,X
+PHL,2016-11-01,2016-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7011,November,,49.155000000000001,X
+PHL,2016-12-01,2016-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2016,2016,7012,December,,49.815600000000003,X
+PHL,2017-01-01,2017-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7021,Annual value,,50.403719793717698,X
+PHL,2017-01-01,2017-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7001,January,,49.736285714285692,X
+PHL,2017-02-01,2017-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7002,February,,49.961399999999998,X
+PHL,2017-03-01,2017-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7003,March,,50.275173913043503,X
+PHL,2017-04-01,2017-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7004,April,,49.862647058823498,X
+PHL,2017-05-01,2017-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7005,May,,49.860318181818201,X
+PHL,2017-06-01,2017-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7006,June,,49.850099999999998,X
+PHL,2017-07-01,2017-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7007,July,,50.638190476190502,X
+PHL,2017-08-01,2017-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7008,August,,50.874714285714298,X
+PHL,2017-09-01,2017-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7009,September,,51.009421052631602,X
+PHL,2017-10-01,2017-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7010,October,,51.343299999999999,X
+PHL,2017-11-01,2017-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7011,November,,51.038350000000001,X
+PHL,2017-12-01,2017-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2017,2017,7012,December,,50.394736842105303,X
+PHL,2018-01-01,2018-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7021,Annual value,,52.661429953968302,X
+PHL,2018-01-01,2018-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7001,January,,50.508666666666699,X
+PHL,2018-02-01,2018-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7002,February,,51.785631578947402,X
+PHL,2018-03-01,2018-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7003,March,,52.067599999999999,X
+PHL,2018-04-01,2018-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7004,April,,52.098599999999998,X
+PHL,2018-05-01,2018-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7005,May,,52.194809523809496,X
+PHL,2018-06-01,2018-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7006,June,,53.047631578947403,X
+PHL,2018-07-01,2018-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7007,July,,53.432909090909099,X
+PHL,2018-08-01,2018-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7008,August,,53.273523809523802,X
+PHL,2018-09-01,2018-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7009,September,,53.941899999999997,X
+PHL,2018-10-01,2018-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7010,October,,54.008565217391293,X
+PHL,2018-11-01,2018-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7011,November,,52.808263157894707,X
+PHL,2018-12-01,2018-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2018,2018,7012,December,,52.769058823529399,X
+PHL,2019-01-01,2019-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7021,Annual value,,51.795782651733298,X
+PHL,2019-01-01,2019-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7001,January,,52.467909090909103,X
+PHL,2019-02-01,2019-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7002,February,,52.190055555555602,X
+PHL,2019-03-01,2019-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7003,March,,52.413428600000003,X
+PHL,2019-04-01,2019-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7004,April,,52.112222222222201,X
+PHL,2019-05-01,2019-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7005,May,,52.262000000000000,X
+PHL,2019-06-01,2019-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7006,June,,51.802944444444400,X
+PHL,2019-07-01,2019-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7007,July,,51.142869565217403,X
+PHL,2019-08-01,2019-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7008,August,,52.054736842105299,X
+PHL,2019-09-01,2019-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7009,September,,52.105190476190501,X
+PHL,2019-10-01,2019-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7010,October,,51.504173913043502,X
+PHL,2019-11-01,2019-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7011,November,,50.726750000000003,X
+PHL,2019-12-01,2019-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2019,2019,7012,December,,50.767111111111099,X
+PHL,2020-01-01,2020-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7021,Annual value,,49.624096002632797,X
+PHL,2020-01-01,2020-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7001,January,,50.838571428571399,X
+PHL,2020-02-01,2020-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7002,February,,50.744789473684200,X
+PHL,2020-03-01,2020-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7003,March,,50.903571428571389,X
+PHL,2020-04-01,2020-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7004,April,,50.734900000000003,X
+PHL,2020-05-01,2020-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7005,May,,50.555578947368403,X
+PHL,2020-06-01,2020-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7006,June,,50.097238095238097,X
+PHL,2020-07-01,2020-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7007,July,,49.467545454545501,X
+PHL,2020-08-01,2020-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7008,August,,48.843315789473699,X
+PHL,2020-09-01,2020-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7009,September,,48.505681818181799,X
+PHL,2020-10-01,2020-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7010,October,,48.482181818181800,X
+PHL,2020-11-01,2020-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7011,November,,48.252055555555600,X
+PHL,2020-12-01,2020-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2020,2020,7012,December,,48.063722222222189,X
+PHL,2021-01-01,2021-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7021,Annual value,,49.254597728841198,X
+PHL,2021-01-01,2021-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7001,January,,48.061399999999999,X
+PHL,2021-02-01,2021-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7002,February,,48.204166666666701,X
+PHL,2021-03-01,2021-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7003,March,,48.574304347826093,X
+PHL,2021-04-01,2021-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7004,April,,48.462000000000003,X
+PHL,2021-05-01,2021-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7005,May,,47.955150000000003,X
+PHL,2021-06-01,2021-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7006,June,,48.124727272727299,X
+PHL,2021-07-01,2021-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7007,July,,49.942952380952399,X
+PHL,2021-08-01,2021-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7008,August,,50.234333333333304,X
+PHL,2021-09-01,2021-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7009,September,,50.142136363636403,X
+PHL,2021-10-01,2021-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7010,October,,50.749142857142893,X
+PHL,2021-11-01,2021-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7011,November,,50.357050000000001,X
+PHL,2021-12-01,2021-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2021,2021,7012,December,,50.247809523809501,X
+PHL,2022-01-01,2022-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7021,Annual value,,54.477785837204998,X
+PHL,2022-01-01,2022-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7001,January,,51.235285714285702,X
+PHL,2022-02-01,2022-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7002,February,,51.280666666666697,X
+PHL,2022-03-01,2022-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7003,March,,52.073956521739099,X
+PHL,2022-04-01,2022-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7004,April,,51.975999999999999,X
+PHL,2022-05-01,2022-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7005,May,,52.361750000000001,X
+PHL,2022-06-01,2022-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7006,June,,53.568545454545507,X
+PHL,2022-07-01,2022-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7007,July,,55.892523809523801,X
+PHL,2022-08-01,2022-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7008,August,,55.750095238095199,X
+PHL,2022-09-01,2022-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7009,September,,57.433761904761901,X
+PHL,2022-10-01,2022-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7010,October,,58.824700000000000,X
+PHL,2022-11-01,2022-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7011,November,,57.652250000000002,X
+PHL,2022-12-01,2022-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2022,2022,7012,December,,55.683894736842099,X
+PHL,2023-01-01,2023-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7021,Annual value,,55.630363223193001,X
+PHL,2023-01-01,2023-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7001,January,,54.991285714285702,X
+PHL,2023-02-01,2023-02-28,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7002,February,,54.783052631578897,X
+PHL,2023-03-01,2023-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7003,March,,54.795565217391299,X
+PHL,2023-04-01,2023-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7004,April,,55.315500000000000,X
+PHL,2023-05-01,2023-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7005,May,,55.727863636363601,X
+PHL,2023-06-01,2023-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7006,June,,55.894550000000002,X
+PHL,2023-07-01,2023-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7007,July,,54.921050000000001,X
+PHL,2023-08-01,2023-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7008,August,,56.159857142857099,X
+PHL,2023-09-01,2023-09-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7009,September,,56.786900000000003,X
+PHL,2023-10-01,2023-10-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7010,October,,56.788857142857097,X
+PHL,2023-11-01,2023-11-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7011,November,,55.812210526315802,X
+PHL,2023-12-01,2023-12-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2023,2023,7012,December,,55.587666666666699,X
+PHL,2024-01-01,2024-01-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2024,2024,7001,January,,55.972272727272703,X
+PHL,2024-02-01,2024-02-29,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2024,2024,7002,February,,56.064900000000002,X
+PHL,2024-03-01,2024-03-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2024,2024,7003,March,,55.849263157894697,X
+PHL,2024-04-01,2024-04-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2024,2024,7004,April,,56.950550000000000,X
+PHL,2024-05-01,2024-05-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2024,2024,7005,May,,57.761863636363600,X
+PHL,2024-06-01,2024-06-30,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2024,2024,7006,June,,58.696277777777802,X
+PHL,2024-07-01,2024-07-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2024,2024,7007,July,,58.484478260869601,X
+PHL,2024-08-01,2024-08-31,171,'608,Philippines,LCU,Local currency units per USD,PHP,Philippine Peso,2024,2024,7008,August,,57.193449999999999,X
+PHL,1970-01-01,1970-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1970,1970,7021,Annual value,,5.904349999325000,X
+PHL,1971-01-01,1971-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1971,1971,7021,Annual value,,6.431708332333330,X
+PHL,1972-01-01,1972-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1972,1972,7021,Annual value,,6.674841665750000,X
+PHL,1973-01-01,1973-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1973,1973,7021,Annual value,,6.756283332333330,X
+PHL,1974-01-01,1974-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1974,1974,7021,Annual value,,6.787874999416670,X
+PHL,1975-01-01,1975-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1975,1975,7021,Annual value,,7.247899999000000,X
+PHL,1976-01-01,1976-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1976,1976,7021,Annual value,,7.440258332333330,X
+PHL,1977-01-01,1977-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1977,1977,7021,Annual value,,7.402824999000000,X
+PHL,1978-01-01,1978-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1978,1978,7021,Annual value,,7.365758332500000,X
+PHL,1979-01-01,1979-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1979,1979,7021,Annual value,,7.377549999000000,X
+PHL,1980-01-01,1980-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1980,1980,7021,Annual value,,7.511433332333330,X
+PHL,1981-01-01,1981-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1981,1981,7021,Annual value,,7.899649999083330,X
+PHL,1982-01-01,1982-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1982,1982,7021,Annual value,,8.539999999416670,X
+PHL,1983-01-01,1983-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1983,1983,7021,Annual value,,11.112716665833300,X
+PHL,1984-01-01,1984-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1984,1984,7021,Annual value,,16.698708332916699,X
+PHL,1985-01-01,1985-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1985,1985,7021,Annual value,,18.607341666500002,X
+PHL,1986-01-01,1986-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1986,1986,7021,Annual value,,20.385683333333301,X
+PHL,1987-01-01,1987-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1987,1987,7021,Annual value,,20.567675000000001,X
+PHL,1988-01-01,1988-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1988,1988,7021,Annual value,,21.094674999999999,X
+PHL,1989-01-01,1989-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1989,1989,7021,Annual value,,21.736683333333300,X
+PHL,1990-01-01,1990-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1990,1990,7021,Annual value,,24.310500000000001,X
+PHL,1991-01-01,1991-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1991,1991,7021,Annual value,,27.478633333333299,X
+PHL,1992-01-01,1992-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1992,1992,7021,Annual value,,25.512491666666701,X
+PHL,1993-01-01,1993-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1993,1993,7021,Annual value,,27.119841666666701,X
+PHL,1994-01-01,1994-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1994,1994,7021,Annual value,,26.417166666666699,X
+PHL,1995-01-01,1995-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1995,1995,7021,Annual value,,25.714466666666699,X
+PHL,1996-01-01,1996-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1996,1996,7021,Annual value,,26.216100000000001,X
+PHL,1997-01-01,1997-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1997,1997,7021,Annual value,,29.470658333333301,X
+PHL,1998-01-01,1998-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1998,1998,7021,Annual value,,40.893050000000002,X
+PHL,1999-01-01,1999-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,1999,1999,7021,Annual value,,39.088983333333303,X
+PHL,2000-01-01,2000-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2000,2000,7021,Annual value,,44.192250000000001,X
+PHL,2001-01-01,2001-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2001,2001,7021,Annual value,,50.992649999999998,X
+PHL,2002-01-01,2002-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2002,2002,7021,Annual value,,51.603566666666701,X
+PHL,2003-01-01,2003-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2003,2003,7021,Annual value,,54.203333333333298,X
+PHL,2004-01-01,2004-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2004,2004,7021,Annual value,,56.039916666666699,X
+PHL,2005-01-01,2005-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2005,2005,7021,Annual value,,55.085491666666698,X
+PHL,2006-01-01,2006-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2006,2006,7021,Annual value,,51.314272500000001,X
+PHL,2007-01-01,2007-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2007,2007,7021,Annual value,,46.148391177755002,X
+PHL,2008-01-01,2008-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2008,2008,7021,Annual value,,44.323287609410002,X
+PHL,2009-01-01,2009-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2009,2009,7021,Annual value,,47.679688453509101,X
+PHL,2010-01-01,2010-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2010,2010,7021,Annual value,,45.109664180089602,X
+PHL,2011-01-01,2011-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2011,2011,7021,Annual value,,43.313136923748800,X
+PHL,2012-01-01,2012-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2012,2012,7021,Annual value,,42.228794734943399,X
+PHL,2013-01-01,2013-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2013,2013,7021,Annual value,,42.446184830673999,X
+PHL,2014-01-01,2014-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2014,2014,7021,Annual value,,44.395154304209697,X
+PHL,2015-01-01,2015-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2015,2015,7021,Annual value,,45.502839942143098,X
+PHL,2016-01-01,2016-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2016,2016,7021,Annual value,,47.492463858509907,X
+PHL,2017-01-01,2017-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2017,2017,7021,Annual value,,50.403719793717698,X
+PHL,2018-01-01,2018-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2018,2018,7021,Annual value,,52.661429953968302,X
+PHL,2019-01-01,2019-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2019,2019,7021,Annual value,,51.795782651733298,X
+PHL,2020-01-01,2020-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2020,2020,7021,Annual value,,49.624096002632797,X
+PHL,2021-01-01,2021-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2021,2021,7021,Annual value,,49.254597728841198,X
+PHL,2022-01-01,2022-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2022,2022,7021,Annual value,,54.477785837204998,X
+PHL,2023-01-01,2023-12-31,171,'608,Philippines,SLC,Standard local currency units per USD,PHP,Philippine Peso,2023,2023,7021,Annual value,,55.630363223193001,X
